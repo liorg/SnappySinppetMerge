@@ -1,0 +1,49 @@
+.MasterTable A #NameTextbox
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: blue;
+	font-style: italic;
+	font-family: 'Segoe UI';
+	font-variant: normal;
+	text-decoration: none; 
+}
+
+.Buttons
+{
+	clear: both;
+	border-right: gray 1px solid;
+	table-layout: auto;
+	border-top: gray 1px solid;
+	display: block;
+	float: none;
+	background-image: none;
+	visibility: visible;
+	overflow: auto;
+	border-left: gray 1px solid;
+	clip: rect(auto auto auto auto);
+	cursor: hand;
+	border-bottom: gray 1px solid;
+	position: relative;
+	border-collapse: separate;
+	background-color: transparent;
+}
+
+#NameLabel
+{
+	color: blue;
+	font-style: italic;
+	font-family: 'Segoe UI';
+	font-variant: normal;
+}
+
+.H1{color: blue; font-style: italic;}
+
+UL
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: blue;
+}
